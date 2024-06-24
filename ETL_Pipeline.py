@@ -4,7 +4,7 @@ import pandas as pd
 import sqlite3
 import os
 
-API_KEY = 'cpr629hr01qifjjvhtrgcpr629hr01qifjjvhts0'
+API_KEY = 'Get-Your-Own-API-Key'
 SYMBOLS = [
     "AAPL",   # Apple Inc.
     "MSFT",   # Microsoft Corporation
